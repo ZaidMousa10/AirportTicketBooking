@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "ba03b62b-5ce9-40b4-988f-b9d6742a8334",
+    "FlightNumber": "15",
+    "DepartureCountry": "l",
+    "DestinationCountry": "i",
+    "DepartureAirport": "o",
+    "ArrivalAirport": "t",
+    "DepartureDate": "2025-07-20 12:03",
+    "ArrivalDate": "2025-07-20 12:30",
+    "BasePrice": 150
+  },
+  {
+    "Id": "6",
+    "FlightNumber": "7",
+    "DepartureCountry": "p",
+    "DestinationCountry": "g",
+    "DepartureAirport": "k",
+    "ArrivalAirport": "m",
+    "DepartureDate": "2025-07-07 12:05",
+    "ArrivalDate": "2025-07-07 12:50",
+    "BasePrice": 2500
+  },
+  {
+    "Id": "0",
+    "FlightNumber": "8",
+    "DepartureCountry": "9",
+    "DestinationCountry": "6",
+    "DepartureAirport": "7",
+    "ArrivalAirport": "5",
+    "DepartureDate": "2025-08-07 11:50",
+    "ArrivalDate": "2025-08-07 11:55",
+    "BasePrice": 50
+  }
+]

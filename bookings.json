@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "86436c36-bb74-4b60-a564-56d9d62d0398",
+    "FlightId": "ba03b62b-5ce9-40b4-988f-b9d6742a8334",
+    "PassengerId": "1",
+    "Price": 300.0,
+    "BookingDate": "2025-08-24T09:20:54.4203802Z",
+    "Class": 3
+  }
+]
