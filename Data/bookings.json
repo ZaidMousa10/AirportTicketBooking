@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "b1",
+    "FlightId": "4",
+    "PassengerId": "p1",
+    "Class": 1,
+    "Price": 200,
+    "BookingDate": "2025-08-21 09:00:00",
+    "Notes": ""
+  },
+  {
+    "Id": "b2",
+    "FlightId": "5",
+    "PassengerId": "p2",
+    "Class": 2,
+    "Price": 375,
+    "BookingDate": "2025-08-21 09:10:00",
+    "Notes": "Vegetarian meal"
+  }
+]

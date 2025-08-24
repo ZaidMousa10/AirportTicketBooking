@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "f1",
+    "FlightNumber": "AA101",
+    "DepartureCountry": "USA",
+    "DestinationCountry": "UK",
+    "DepartureAirport": "JFK",
+    "ArrivalAirport": "LHR",
+    "DepartureDate": "2025-08-25 08:00:00",
+    "ArrivalDate": "2025-08-25 20:00:00",
+    "BasePrice": 500
+  },
+  {
+    "Id": "f2",
+    "FlightNumber": "BA202",
+    "DepartureCountry": "UK",
+    "DestinationCountry": "France",
+    "DepartureAirport": "LHR",
+    "ArrivalAirport": "CDG",
+    "DepartureDate": "2025-08-26 09:00:00",
+    "ArrivalDate": "2025-08-26 10:30:00",
+    "BasePrice": 200
+  },
+  {
+    "Id": "f3",
+    "FlightNumber": "AF303",
+    "DepartureCountry": "France",
+    "DestinationCountry": "Germany",
+    "DepartureAirport": "CDG",
+    "ArrivalAirport": "FRA",
+    "DepartureDate": "2025-08-27 14:00:00",
+    "ArrivalDate": "2025-08-27 15:30:00",
+    "BasePrice": 150
+  }
+]
